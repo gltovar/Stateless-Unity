@@ -1,0 +1,9 @@
+{
+    "name": "com.dotnet-state-machine.stateless",
+    "displayName": "Stateless",
+    "description": "Create state machines and lightweight state machine-based workflows directly in .NET code",
+    "version": "4.4.0",
+    "unity": "2018.3",
+    "license": "Apache License 2.0",
+    "dependencies": {}
+}
