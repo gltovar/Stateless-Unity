@@ -7,9 +7,9 @@ This [github post](https://github.com/dotnet-state-machine/stateless/issues/325)
 
 ## Installation
 
-Add the following to the Unity Package Manager or project manafest ```https://github.com/gltovar/Stateless-Unity.git#UPM```
+Add the following to the Unity Package Manager or project manafest ```https://github.com/gltovar/Stateless-Unity.git#upm```
 
-Can substitute ```#UPM``` with any of the version numbers below. EX: ```#4.4.0```
+Can substitute ```#upm``` with any of the version numbers below. EX: ```#4.4.0```
 
 ## Suported Versions
 
