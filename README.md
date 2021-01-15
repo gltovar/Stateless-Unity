@@ -3,6 +3,8 @@ Compiled version of Stateless compatible with Unity Package Manager
 
 Learn more about [Stateless](https://github.com/dotnet-state-machine/stateless)
 
+This [github post](https://github.com/dotnet-state-machine/stateless/issues/325) is what I followed to generate the compiled library.
+
 ## Installation
 
 Add the following to the Unity Package Manager or project manafest ```https://github.com/gltovar/Stateless-Unity.git#UPM```
